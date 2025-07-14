@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkawesometic_docs=self.webpackChunkawesometic_docs||[]).push([[7472],{55513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"1\u67081\u65e5\u5347\u7ea7\u516c\u544a","permalink":"/blog/01-01-\u5347\u7ea7\u516c\u544a","unlisted":false,"date":"2025-01-01T00:00:00.000Z"}]}')}}]);

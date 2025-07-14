@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.ai.nsccjn.org/blog</id>
+    <title>NSCCJN Blog</title>
+    <updated>2025-01-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.ai.nsccjn.org/blog"/>
+    <subtitle>NSCCJN Blog</subtitle>
+    <icon>https://docs.ai.nsccjn.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1月1日升级公告]]></title>
+        <id>https://docs.ai.nsccjn.org/blog/01-01-升级公告</id>
+        <link href="https://docs.ai.nsccjn.org/blog/01-01-升级公告"/>
+        <updated>2025-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. 更新了Nvidia驱动及增加对CUDA 12+适配支持。]]></summary>
+        <content type="html"><![CDATA[<ol>
+<li>更新了Nvidia驱动及增加对CUDA 12+适配支持。</li>
+<li>修复用户web页面GPU、CPU配额与作业实际占用不匹配的问题。</li>
+<li>修复用户家目录限额异常问题（存储超额将报错以及将无法创建新的开发环境）</li>
+<li>增加用户页面对作业IB流量的监控面板。</li>
+<li>增加站内信告警。</li>
+<li>增加了组配额管理功能，修复了组管理员可以任意修改组成员存储配额问题。</li>
+<li>增加镜像配额及限额功能</li>
+</ol>]]></content>
+        <author>
+            <name>济南超算运维部</name>
+        </author>
+        <category label="升级" term="升级"/>
+    </entry>
+</feed>

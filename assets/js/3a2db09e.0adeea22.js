@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkawesometic_docs=self.webpackChunkawesometic_docs||[]).push([[8121],{68070:e=>{e.exports=JSON.parse('{"tags":[{"label":"\u5347\u7ea7","permalink":"/blog/tags/update","description":"update","count":1}]}')}}]);

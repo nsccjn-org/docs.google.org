@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkawesometic_docs=self.webpackChunkawesometic_docs||[]).push([[8947],{56600:e=>{e.exports=JSON.parse('{"authors":[{"name":"\u6d4e\u5357\u8d85\u7b97\u8fd0\u7ef4\u90e8","page":{"permalink":"/blog/authors/nsccjn"},"imageURL":"img/logo.png","key":"nsccjn","count":1}]}')}}]);
